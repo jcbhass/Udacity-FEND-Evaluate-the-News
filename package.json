@@ -13,6 +13,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+=======
+>>>>>>> d68c4f3d5393dfe830a4fa3bd2d88b80f0a1ae62
     "express": "^4.17.1",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
@@ -22,8 +27,17 @@
     "@babel/preset-env": "^7.7.7",
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^3.0.0",
+<<<<<<< HEAD
+    "css-loader": "^3.4.1",
     "html-webpack-plugin": "^3.2.0",
     "json-loader": "^0.5.7",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.1.2",
+=======
+    "html-webpack-plugin": "^3.2.0",
+    "json-loader": "^0.5.7",
+>>>>>>> d68c4f3d5393dfe830a4fa3bd2d88b80f0a1ae62
     "webpack-dev-server": "^3.10.1"
   }
 }
